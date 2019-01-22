@@ -1,0 +1,21 @@
+{
+  "name": "react-native-spinjs",
+  "version": "1.0.1",
+  "description": "Spinning activity indicator for React-Native",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dctalbot/react-native-spinjs.git"
+  },
+  "main": "Spin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "spinner",
+    "spin.js",
+    "loading"
+  ],
+  "author": "David Talbot",
+  "license": "MIT"
+}
